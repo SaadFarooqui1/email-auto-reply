@@ -4,10 +4,10 @@ import email
 from email.message import EmailMessage
 
 # Email Credentials
-IMAP_SERVER = "imap.hostinger.com"
-SMTP_SERVER = "smtp.hostinger.com"
-EMAIL_ADDRESS = "saadfarooqui@teamx.global"
-EMAIL_PASSWORD = "PjYHy$67@u9"
+IMAP_SERVER = "add your hostings imap server"
+SMTP_SERVER = "add smtp server"
+EMAIL_ADDRESS = "john@example.com"
+EMAIL_PASSWORD = "your password"
 
 # Keywords to identify job applications
 JOB_KEYWORDS = ["job application", "application for", "applying for", "resume", "cv",
